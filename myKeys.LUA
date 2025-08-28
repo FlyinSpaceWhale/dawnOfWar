@@ -1044,3 +1044,5 @@ camera_bindings =
 	camera_rotate		= "Control+Alt", 
 	camera_defaultcam	= "Backspace",
 }
+
+bindings_locstring = "My Custom Keys"
