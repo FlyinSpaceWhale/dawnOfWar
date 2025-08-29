@@ -2,7 +2,7 @@
 -- Default Key Combo Bindings
 -- (c) 2025 Relic Entertainment
 
--- Bindings use format "Control+Shift+A"
+-- Bindings use format "Control+Shift+2"
 
 -- Valid keys
 	--  a - Z   0 - 9
@@ -428,84 +428,84 @@ bindings =
 	sisters_lightning					= "Alt+E",
 
 	-- WEAPON UPGRADES FOR MARINES
-	marine_assault_cannon			= "Shift+S",
-	marine_flamer					= "Shift+A",
-	marine_heavy_flamer				= "Shift+A",
-	marine_heavy_bolter				= "Shift+S",
-	marine_lascannon_1				= "Shift+S",
+	marine_assault_cannon			= "Shift+3",
+	marine_flamer					= "Shift+2",
+	marine_heavy_flamer				= "Shift+2",
+	marine_heavy_bolter				= "Shift+3",
+	marine_lascannon_1				= "Shift+3",
 	marine_lascannon_2				= "Shift+Z",
-	marine_lascannon_twin			= "Shift+A",
+	marine_lascannon_twin			= "Shift+2",
 	marine_missile_launcher			= "Shift+X",
 	marine_plasma_gun				= "Shift+Z",
-	marine_sniper_rifle				= "Shift+S",
+	marine_sniper_rifle				= "Shift+3",
 	marine_missile_launcher_turret	= "Shift+Q",
 	marine_power_halberd			= "Shift+P",
-	marine_missile_frag				= "Shift+A",
-	marine_missile_krak				= "Shift+S",
+	marine_missile_frag				= "Shift+2",
+	marine_missile_krak				= "Shift+3",
 
 
 	-- WEAPON UPGRADES FOR CHAOS 	
-	chaos_flamer					= "Shift+A",
-	chaos_heavy_flamer				= "Shift+A",
-	chaos_grenade_launcher			= "Shift+S",
-	chaos_heavy_bolter				= "Shift+A",
-	chaos_lascannon_1				= "Shift+S",
+	chaos_flamer					= "Shift+2",
+	chaos_heavy_flamer				= "Shift+2",
+	chaos_grenade_launcher			= "Shift+3",
+	chaos_heavy_bolter				= "Shift+2",
+	chaos_lascannon_1				= "Shift+3",
 	chaos_lascannon_2				= "Shift+Z",
-	chaos_lascannon_twin			= "Shift+A",
+	chaos_lascannon_twin			= "Shift+2",
 	chaos_missile_launcher			= "Shift+X",
 	chaos_plasma_gun				= "Shift+Z",
 	chaos_missile_launcher_turret	= "Shift+Q",
 	chaos_multi_melta				= "Shift+M",
 
 	-- WEAPON UPGRADES FOR ORKS
-	ork_big_shoota					= "Shift+A",
-	ork_kustom_shoota				= "Shift+S",
-	ork_bomb_chucka					= "Shift+A",
-	ork_burna						= "Shift+S",
+	ork_big_shoota					= "Shift+2",
+	ork_kustom_shoota				= "Shift+3",
+	ork_bomb_chucka					= "Shift+2",
+	ork_burna						= "Shift+3",
 	ork_mega_blasta					= "Shift+M",
-	ork_power_klaw					= "Shift+A",
+	ork_power_klaw					= "Shift+2",
 	ork_rokkit_launcha				= "Shift+Z",
-	ork_rokkit_launcha_twin			= "Shift+A",
-	ork_shoota						= "Shift+S",
+	ork_rokkit_launcha_twin			= "Shift+2",
+	ork_shoota						= "Shift+3",
 	ork_zzzap_gun					= "Shift+P",
 		
 	-- WEAPON UPGRADES FOR GUARD
-	guard_grenade_launcher				= "Shift+A",
-	guard_plasma_gun					= "Shift+S",
-	guard_lasgun_heavy_weapons_team 	= "Shift+S",
+	guard_grenade_launcher				= "Shift+2",
+	guard_plasma_gun					= "Shift+3",
+	guard_lasgun_heavy_weapons_team 	= "Shift+3",
 	guard_autocannon_heavy_weapons_team	= "Shift+C",
 	guard_multi_melta					= "Shift+M",
 	guard_multi_laser_sentinel			= "Shift+M",
 	guard_autocannon_sentinel			= "Shift+C",
 
 	-- WEAPON UPGRADES FOR ELDAR
-	eldar_bright_lance				= "Shift+A",
+	eldar_bright_lance				= "Shift+2",
 	eldar_dcannon					= "Shift+Q",
-	eldar_missile_launcher			= "Shift+A",
-	eldar_scatter_laser				= "Shift+S",
-	eldar_shuriken_cannon			= "Shift+S",
-	eldar_starcannon				= "Shift+A",
-	eldar_witchblade_seercouncil	= "Shift+A",
+	eldar_missile_launcher			= "Shift+2",
+	eldar_scatter_laser				= "Shift+3",
+	eldar_shuriken_cannon			= "Shift+3",
+	eldar_starcannon				= "Shift+2",
+	eldar_witchblade_seercouncil	= "Shift+2",
 
 	-- WEAPON UPGRADES FOR TAU
 	tau_flamer_commander				= "Shift+Z",
-	tau_missile_launcher_commander		= "Shift+S",
-	tau_plasma_rifle_commander			= "Shift+A",
-	tau_missile_launcher_crisis_suit	= "Shift+A",
-	tau_flamer_crisis_suit				= "Shift+S",
-	tau_stealth_suit_fusion_blaster		= "Shift+A",
+	tau_missile_launcher_commander		= "Shift+3",
+	tau_plasma_rifle_commander			= "Shift+2",
+	tau_missile_launcher_crisis_suit	= "Shift+2",
+	tau_flamer_crisis_suit				= "Shift+3",
+	tau_stealth_suit_fusion_blaster		= "Shift+2",
 	
 	-- WEAPON UPGRADES FOR NECRONS	
-	necron_tomb_spyder_particle_projector	= "Shift+A",
+	necron_tomb_spyder_particle_projector	= "Shift+2",
 	
 	-- WEAPON UPGRADES FOR DARK ELDAR
 	dark_eldar_darklance_raider			= "Shift+O", 
-	dark_eldar_darklance_scourge		= "Shift+A",
-	dark_eldar_disintegrator_ravager	= "Shift+A",
+	dark_eldar_darklance_scourge		= "Shift+2",
+	dark_eldar_disintegrator_ravager	= "Shift+2",
 
 	--WEAPON UPGRADES FOR SISTERS
-	sisters_flamer				= "Shift+A",
-	sisters_heavy_bolter		= "Shift+S",
+	sisters_flamer				= "Shift+2",
+	sisters_heavy_bolter		= "Shift+3",
 	sisters_chainsword			= "Shift+C", 
 	sisters_multi_melta			= "Shift+X",
 	sisters_meltagun			= "Shift+Z",
