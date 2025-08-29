@@ -12,7 +12,7 @@
 	-- ScreenLeft ScreenRight ScreenTop ScreenBottom 
 	-- Numpad0 Numpad1 Numpad2 Numpad3 Numpad4 Numpad5 Numpad6 Numpad7 Numpad8 Numpad9 NumpadMultiply NumpadPlus NumpadSeparator NumpadMinus NumpadPeriod NumpadSlash 
 	
-bindings_version = 4.1
+bindings_version = 5.0
 bindings_locstring = "$11271751"
 
 bindings =
@@ -20,7 +20,7 @@ bindings =
 	----------------------------------------------------------------------------------------------------------------
 	-- SYSTEM COMMANDS
 	----------------------------------------------------------------------------------------------------------------
-	escape			= "V",
+	escape			= "Alt+G",
 	accept			= "C",
 	commandqueue	= "Grave",
 	systemmenu		= "Escape",
@@ -107,18 +107,18 @@ bindings =
 	----------------------------------------------------------------------------------------------------------------
 	
 	-- BUILDINGS FOR MARINES
-	marine_hq					= "Alt+Q",
-	marine_artefact				= "Control+F",
-	marine_armoury				= "Shift+Q",
-	marine_chapel				= "Shift+F",
-	marine_generator			= "Alt+R",
-	marine_listening_post		= "Alt+E",
-	marine_orbital_relay		= "Alt+C",
+	marine_hq					= "Contol+Q",
+	marine_artefact				= "Alt+R",
+	marine_armoury				= "Alt+Q",
+	marine_chapel				= "Control+E",
+	marine_generator			= "Control+T",
+	marine_listening_post		= "Contol+R",
+	marine_orbital_relay		= "Alt+F",
 	marine_temp_drop_building	= "Shift+G",
-	marine_thermo_generator		= "Alt+F",
-	marine_bolter_turret		= "Alt+Z",
-	marine_machine_cult			= "Control+Q",
-	marine_mine_field			= "Alt+X",
+	marine_thermo_generator		= "Alt+T",
+	marine_bolter_turret		= "Control+F",
+	marine_machine_cult			= "Alt+E",
+	marine_mine_field			= "Control+G",
 
 	-- BUILDINGS FOR CHAOS 
 	chaos_hq					= "Alt+Q",
