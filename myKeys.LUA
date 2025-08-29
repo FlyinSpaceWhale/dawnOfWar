@@ -12,7 +12,7 @@
 	-- ScreenLeft ScreenRight ScreenTop ScreenBottom 
 	-- Numpad0 Numpad1 Numpad2 Numpad3 Numpad4 Numpad5 Numpad6 Numpad7 Numpad8 Numpad9 NumpadMultiply NumpadPlus NumpadSeparator NumpadMinus NumpadPeriod NumpadSlash 
 	
-bindings_version = 4.0
+bindings_version = 4.1
 bindings_locstring = "$11271751"
 
 bindings =
@@ -227,7 +227,7 @@ bindings =
 	marine_land_speeder			= "Shift+F",
 	marine_librarian			= "Shift+F",
 	marine_skull_probe			= "Alt+Z",
-	marine_scout				= "Shift+F",
+	marine_scout				= "Alt+F",
 	marine_apothecary			= "Alt+Q",
 	marine_assault_marine		= "Shift+F",
 	marine_sergeant				= "Shift+G",
