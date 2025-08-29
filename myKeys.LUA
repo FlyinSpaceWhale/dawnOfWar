@@ -108,7 +108,7 @@ bindings =
 	
 	-- BUILDINGS FOR MARINES
 	marine_hq					= "Alt+Q",
-	marine_artefact				= "Shift+F",
+	marine_artefact				= "Control+F",
 	marine_armoury				= "Shift+Q",
 	marine_chapel				= "Shift+F",
 	marine_generator			= "Alt+R",
@@ -117,7 +117,7 @@ bindings =
 	marine_temp_drop_building	= "Shift+G",
 	marine_thermo_generator		= "Alt+F",
 	marine_bolter_turret		= "Alt+Z",
-	marine_machine_cult			= "Shift+F",
+	marine_machine_cult			= "Control+Q",
 	marine_mine_field			= "Alt+X",
 
 	-- BUILDINGS FOR CHAOS 
