@@ -777,11 +777,11 @@ bindings =
 	sisters_vehicle_cap						= "Alt+Z",
 
 	-- ADDONS FOR MARINES
-	marine_hq_addon_1			= "Alt+Z",
-	marine_hq_addon_2			= "Alt+Z",
-	marine_listening_post_1		= "Alt+Q",
-	marine_listening_post_2		= "Shift+F",
-	marine_turret_addon			= "Alt+Q",
+	marine_hq_addon_1			= "Control+F",
+	marine_hq_addon_2			= "Control+F",
+	marine_listening_post_1		= "Control+Q",
+	marine_listening_post_2		= "Control+E",
+	marine_turret_addon			= "Control+Q",
 	
 	-- ADDONS FOR CHAOS
 	chaos_hq_addon_1			= "Alt+Z",
