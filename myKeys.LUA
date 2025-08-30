@@ -12,7 +12,7 @@
 	-- ScreenLeft ScreenRight ScreenTop ScreenBottom 
 	-- Numpad0 Numpad1 Numpad2 Numpad3 Numpad4 Numpad5 Numpad6 Numpad7 Numpad8 Numpad9 NumpadMultiply NumpadPlus NumpadSeparator NumpadMinus NumpadPeriod NumpadSlash 
 	
-bindings_version = 5.1
+bindings_version = 5.11
 bindings_locstring = "$11271751"
 
 bindings =
@@ -40,7 +40,7 @@ bindings =
 	attackmelee					= "Control+T",
 	build						= "Alt+Q",
 	buildadv					= "",
-	attach						= "Control+G",
+	attach						= "Shift+C",
 	attackground				= "Alt+R",
 	jump						= "Control+V",
 	rally						= "Control+F",
@@ -50,8 +50,8 @@ bindings =
 	infiltrate					= "Control+C",
 	unload						= "Control+X",
 	deepstrike					= "Shift+R",
-	reinforce					= "Control+Q",
-	leader						= "Control+E",
+	reinforce					= "Shift+Q",
+	leader						= "Shift+E",
 	cancelconstruction 			= "Alt+V",
 	rampage						= "Alt+V",
 	repair						= "Control+E",
@@ -428,20 +428,20 @@ bindings =
 	sisters_lightning					= "Alt+E",
 
 	-- WEAPON UPGRADES FOR MARINES
-	marine_assault_cannon			= "Shift+E",
-	marine_flamer					= "Shift+B",
-	marine_heavy_flamer				= "Shift+B",
-	marine_heavy_bolter				= "Shift+E",
-	marine_lascannon_1				= "Shift+E",
-	marine_lascannon_2				= "Shift+Z",
-	marine_lascannon_twin			= "Shift+B",
-	marine_missile_launcher			= "Shift+X",
-	marine_plasma_gun				= "Shift+Z",
-	marine_sniper_rifle				= "Shift+E",
-	marine_missile_launcher_turret	= "Shift+Q",
-	marine_power_halberd			= "Shift+P",
-	marine_missile_frag				= "Shift+B",
-	marine_missile_krak				= "Shift+E",
+	marine_assault_cannon			= "Shift+R",
+	marine_flamer					= "Shift+R",
+	marine_heavy_flamer				= "Shift+T",
+	marine_heavy_bolter				= "Shift+T",
+	marine_lascannon_1				= "Shift+R",
+	marine_lascannon_2				= "Shift+T",
+	marine_lascannon_twin			= "Shift+F",
+	marine_missile_launcher			= "Shift+G",
+	marine_plasma_gun				= "Shift+F",
+	marine_sniper_rifle				= "Shift+T",
+	marine_missile_launcher_turret	= "Control+Q",
+	marine_power_halberd			= "Shift+R",
+	marine_missile_frag				= "Shift+R",
+	marine_missile_krak				= "Shift+T",
 
 
 	-- WEAPON UPGRADES FOR CHAOS 	
