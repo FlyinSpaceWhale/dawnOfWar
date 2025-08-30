@@ -12,7 +12,7 @@
 	-- ScreenLeft ScreenRight ScreenTop ScreenBottom 
 	-- Numpad0 Numpad1 Numpad2 Numpad3 Numpad4 Numpad5 Numpad6 Numpad7 Numpad8 Numpad9 NumpadMultiply NumpadPlus NumpadSeparator NumpadMinus NumpadPeriod NumpadSlash 
 	
-bindings_version = 5.12
+bindings_version = 5.3
 bindings_locstring = "$11271751"
 
 bindings =
@@ -219,12 +219,12 @@ bindings =
 
 	-- TROOPERS FOR MARINES
 	marine_servitor				= "Control+Q",
-	marine_dreadnought			= "Alt+E",
-	marine_dreadnought_hellfire	= "Alt+R",
+	marine_dreadnought			= "Control+R",
+	marine_dreadnought_hellfire	= "Control+T",
 	marine_force_commander		= "Alt+Q",
 	marine_chaplain				= "Control+R",
 	marine_grey_knights			= "Alt+E",
-	marine_land_speeder			= "Shift+F",
+	marine_land_speeder			= "Control+E",
 	marine_librarian			= "Control+E",
 	marine_skull_probe			= "Control+F",
 	marine_scout				= "Control+E",
@@ -234,12 +234,12 @@ bindings =
 	marine_space_marine			= "Control+Q",
 	marine_terminator			= "Control+R",
 	marine_assault_terminator	= "Control+T",	
-	marine_land_raider			= "Alt+F",
-	marine_predator				= "Shift+F",
-	marine_rhino				= "Alt+Q",
-	marine_whirlwind			= "Shift+Q",
+	marine_land_raider			= "Alt+T",
+	marine_predator				= "Alt+R",
+	marine_rhino				= "Control+Q",
+	marine_whirlwind			= "Alt+E",
 	marine_techmarine			= "Shift+F", 
-	marine_tempest				= "Shift+G",
+	marine_tempest				= "Alt+Q",
 
 	-- TROOPERS FOR CHAOS
 	chaos_bloodthirster			= "Shift+F",
