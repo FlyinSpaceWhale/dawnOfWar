@@ -12,7 +12,7 @@
 	-- ScreenLeft ScreenRight ScreenTop ScreenBottom 
 	-- Numpad0 Numpad1 Numpad2 Numpad3 Numpad4 Numpad5 Numpad6 Numpad7 Numpad8 Numpad9 NumpadMultiply NumpadPlus NumpadSeparator NumpadMinus NumpadPeriod NumpadSlash 
 	
-bindings_version = 5.0
+bindings_version = 5.1
 bindings_locstring = "$11271751"
 
 bindings =
@@ -20,7 +20,7 @@ bindings =
 	----------------------------------------------------------------------------------------------------------------
 	-- SYSTEM COMMANDS
 	----------------------------------------------------------------------------------------------------------------
-	escape			= "Alt+G",
+	escape			= "Control+V",
 	accept			= "C",
 	commandqueue	= "Grave",
 	systemmenu		= "Escape",
@@ -34,29 +34,29 @@ bindings =
 	----------------------------------------------------------------------------------------------------------------
 	-- TASKBAR COMMANDS
 	----------------------------------------------------------------------------------------------------------------
-	stop 						= "Alt+H",
-	move 						= "Alt+M",
-	attackmove					= "Alt+Q",
-	attackmelee					= "Alt+F",
-	build						= "Control+B",
+	stop 						= "Control+E",
+	move 						= "Control+Q",
+	attackmove					= "Control+R",
+	attackmelee					= "Control+T",
+	build						= "Alt+Q",
 	buildadv					= "",
 	attach						= "Control+G",
 	attackground				= "Alt+R",
 	jump						= "Control+V",
-	rally						= "Control+Q",
-	combatstance				= "Control+T",
-	meleestance					= "Control+F",
+	rally						= "Control+F",
+	combatstance				= "Alt+R",
+	meleestance					= "Alt+T",
 	scuttle						= "Delete",
 	infiltrate					= "Control+C",
 	unload						= "Control+X",
-	deepstrike					= "Control+E",
-	reinforce					= "Shift+R",
-	leader						= "Control+Z",
+	deepstrike					= "Shift+R",
+	reinforce					= "Control+Q",
+	leader						= "Control+E",
 	cancelconstruction 			= "Alt+V",
 	rampage						= "Alt+V",
-	repair						= "Control+R",
+	repair						= "Control+E",
 	possess						= "Control+E",
-	relocate					= "Control+Q",
+	relocate					= "Shift+Q",
 	cannibalism					= "Control+V",
 	possess_enemy				= "Control+R",
 	fear						= "Control+G",
@@ -107,13 +107,13 @@ bindings =
 	----------------------------------------------------------------------------------------------------------------
 	
 	-- BUILDINGS FOR MARINES
-	marine_hq					= "Contol+Q",
+	marine_hq					= "Control+Q",
 	marine_artefact				= "Alt+R",
 	marine_armoury				= "Alt+Q",
 	marine_chapel				= "Control+E",
 	marine_generator			= "Control+T",
-	marine_listening_post		= "Contol+R",
-	marine_orbital_relay		= "Alt+F",
+	marine_listening_post		= "Control+R",
+	marine_orbital_relay		= "Conrtol+C",
 	marine_temp_drop_building	= "Shift+G",
 	marine_thermo_generator		= "Alt+T",
 	marine_bolter_turret		= "Control+F",
@@ -218,22 +218,22 @@ bindings =
 	sisters_mines				= "Alt+X",
 
 	-- TROOPERS FOR MARINES
-	marine_servitor				= "Alt+Q",
+	marine_servitor				= "Control+Q",
 	marine_dreadnought			= "Alt+E",
 	marine_dreadnought_hellfire	= "Alt+R",
-	marine_force_commander		= "Shift+F",
-	marine_chaplain				= "Alt+E",
-	marine_grey_knights			= "Shift+Q",
+	marine_force_commander		= "Alt+Q",
+	marine_chaplain				= "Control+R",
+	marine_grey_knights			= "Alt+E",
 	marine_land_speeder			= "Shift+F",
 	marine_librarian			= "Shift+F",
 	marine_skull_probe			= "Alt+Z",
-	marine_scout				= "Alt+F",
+	marine_scout				= "Control+E",
 	marine_apothecary			= "Alt+Q",
-	marine_assault_marine		= "Shift+F",
+	marine_assault_marine		= "Control+E",
 	marine_sergeant				= "Shift+G",
-	marine_space_marine			= "Alt+Q",
-	marine_terminator			= "Alt+E",
-	marine_assault_terminator	= "Alt+R",	
+	marine_space_marine			= "Control+Q",
+	marine_terminator			= "Control+R",
+	marine_assault_terminator	= "Control+T",	
 	marine_land_raider			= "Alt+F",
 	marine_predator				= "Shift+F",
 	marine_rhino				= "Alt+Q",
@@ -516,7 +516,7 @@ bindings =
 	marine_force_commander_research_1	= "Alt+Z",
 	marine_force_commander_research_2	= "Alt+Z",
 	marine_daemon_hammer_research		= "Shift+G",
-	marine_frag_grenade_research		= "Alt+Z",
+	marine_frag_grenade_research		= "Control+F",
 	marine_health_research_1			= "Shift+Q",
 	marine_health_research_2			= "Shift+Q",
    	marine_commander_health_research_1	= "Shift+Q",
@@ -524,7 +524,7 @@ bindings =
 	marine_librarian_research_1			= "Alt+X",
 	marine_librarian_research_2			= "Alt+X",
 	marine_max_weapons_research			= "Alt+Q",
-	marine_melta_bomb_research			= "Alt+X",
+	marine_melta_bomb_research			= "Control+G",
 	marine_power_research_1				= "Alt+Q",
 	marine_power_research_2				= "Alt+Q",	
 	marine_requisition_research_1		= "Shift+Q",
