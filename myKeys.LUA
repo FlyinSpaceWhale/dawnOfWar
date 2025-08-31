@@ -12,7 +12,7 @@
 	-- ScreenLeft ScreenRight ScreenTop ScreenBottom 
 	-- Numpad0 Numpad1 Numpad2 Numpad3 Numpad4 Numpad5 Numpad6 Numpad7 Numpad8 Numpad9 NumpadMultiply NumpadPlus NumpadSeparator NumpadMinus NumpadPeriod NumpadSlash 
 	
-bindings_version = 5.31
+bindings_version = 5.4
 bindings_locstring = "$11271751"
 
 bindings =
@@ -879,7 +879,7 @@ bindings =
 	marine_weaken_resolve				= "Alt+E",
 	marine_word_of_emperer				= "Alt+R",
 	marine_inquisition					= "Control+F",
-	marine_blessing_of_the_omnissiah	= "Alt+O",
+	marine_blessing_of_the_omnissiah	= "Alt+F",
 	
 	-- ABILITIES FOR CHAOS
 	chaos_chains			= "Alt+X",
